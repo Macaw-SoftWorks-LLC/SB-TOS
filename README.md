@@ -1,8 +1,8 @@
 # Terms of Service for Squak Scheduler
 
-**Effective Date**: [Insert Date]
+**Effective Date**: 07/09/2023
 
-Please read these Terms of Service ("Terms") carefully before using the Squak Scheduler mobile application ("the App"), operated by [Your Company Name] ("we," "us," or "our"). These Terms set forth the legally binding terms and conditions for your use of the App.
+Please read these Terms of Service ("Terms") carefully before using the Squak Scheduler mobile application ("the App"), operated by Macaw SoftWorks LLC ("we," "us," or "our"). These Terms set forth the legally binding terms and conditions for your use of the App.
 
 ## 1. Acceptance of Terms
 By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the App.
@@ -42,11 +42,11 @@ To the maximum extent permitted by law, we shall not be liable for any direct, i
 We reserve the right to modify these Terms at any time without prior notice. The updated Terms will be effective upon posting, and your continued use of the App after the posting constitutes your acceptance of the updated Terms.
 
 ## 12. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction]. Any disputes arising out of or relating to these Terms or the App shall be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction].
+These Terms shall be governed by and construed in accordance with the laws of the state of Florida, United States. Any disputes arising out of or relating to these Terms or the App shall be subject to the exclusive jurisdiction of the courts in Florida, United States.
 
 ## 13. Entire Agreement
 These Terms constitute the entire agreement between you and us regarding the use of the App and supersede all prior or contemporaneous understandings and agreements.
 
-If you have any questions or concerns regarding these Terms, please contact us at [Your contact information].
+If you have any questions or concerns regarding these Terms, please contact us at jlicona.macaw@gmail.com.
 
 By using Squak Scheduler, you acknowledge that you have read, understood, and agreed to these Terms of Service.
