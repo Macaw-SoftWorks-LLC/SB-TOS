@@ -1,14 +1,14 @@
-# Terms of Service for Squak Scheduler
+# Terms of Service for Squawk Biz
 
 **Effective Date**: 07/09/2023
 
-Please read these Terms of Service ("Terms") carefully before using the Squak Scheduler mobile application ("the App"), operated by Macaw SoftWorks LLC ("we," "us," or "our"). These Terms set forth the legally binding terms and conditions for your use of the App.
+Please read these Terms of Service ("Terms") carefully before using the Squawk Biz mobile application ("the App"), operated by Macaw SoftWorks LLC ("we," "us," or "our"). These Terms set forth the legally binding terms and conditions for your use of the App.
 
 ## 1. Acceptance of Terms
 By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the App.
 
 ## 2. Description of the App
-Squak Scheduler is a mobile application that enables users to manage their personal business and schedule services. It allows users to create, manage, and update schedules, track appointments, and communicate with clients.
+Squawk Biz is a mobile application that enables users to manage their personal business and schedule services. It allows users to create, manage, and update schedules, track appointments, and communicate with clients.
 
 ## 3. User Eligibility
 You must be at least 18 years old to use the App. By using the App, you represent and warrant that you are 18 years of age or older and have the legal capacity to enter into these Terms.
@@ -49,4 +49,4 @@ These Terms constitute the entire agreement between you and us regarding the use
 
 If you have any questions or concerns regarding these Terms, please contact us at jlicona.macaw@gmail.com.
 
-By using Squak Scheduler, you acknowledge that you have read, understood, and agreed to these Terms of Service.
+By using Squawk Biz, you acknowledge that you have read, understood, and agreed to these Terms of Service.
