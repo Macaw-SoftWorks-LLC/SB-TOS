@@ -47,6 +47,6 @@ These Terms shall be governed by and construed in accordance with the laws of th
 ## 13. Entire Agreement
 These Terms constitute the entire agreement between you and us regarding the use of the App and supersede all prior or contemporaneous understandings and agreements.
 
-If you have any questions or concerns regarding these Terms, please contact us at jlicona.macaw@gmail.com.
+If you have any questions or concerns regarding these Terms, please contact us at macawsw@macawsw.com.
 
 By using Squawk Biz, you acknowledge that you have read, understood, and agreed to these Terms of Service.
